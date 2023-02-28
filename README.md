@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cliff-mudigp
+- 👋 Hi, I’m @cliff-mudigo
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently html,css,ruby,rails,react,js
 - 💞️ I’m looking to collaborate on start small
